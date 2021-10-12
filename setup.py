@@ -23,7 +23,7 @@ setuptools.setup(
         'fire',
         'pyscreeze',
         'opencv-python-headless == 3.4.2.16',
-        'opencv-contrib-python-headless == 3.4.2.16',
+        'opencv-contrib-python-headless == 3.4.7.28',
         'numpy',
         'matplotlib',
     ],
